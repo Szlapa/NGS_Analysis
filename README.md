@@ -23,8 +23,8 @@ contains files with aligments' quality check
 ### polymorphisms_vcf/
 contains vcf files with detected polymorphisms
   
-### visualisation_vcp/
-contains polymorphisms annotations and analysis in vcp format
+### visualisation_vep/
+contains polymorphisms annotations and analysis in vep and html format
 
 ## RAPORT.md
 contains description of the analysis's processes and the results
