@@ -47,7 +47,7 @@ Several operations were performed on bam files, including sorting, marking and i
 Commands:  
 **samtools fixmate** *-r -m aln_4545.bam aln_4545_fix.bam*  
 **samtools sort** *aln_4545_fix.bam -o aln_4545_sorted.bam* 
-**samtools markdup** *-r aln_4545_sorted.bam aln_4545_marked.bam* 
+**samtools markdup** *-r aln_4545_sorted.bam aln_4545_marked.bam*   
 **samtools index** *aln_4545_marked.bam*  
 
 ### 8. Third quality check
